@@ -1,7 +1,7 @@
 ------------------
 ## Winter Semester Courses 1399/2020
 
-## دروس ارشد
+## دروس کارشناسی
 
 [1115026_01 مهندسي نرم افزارپيشرفته 3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
 <br>
