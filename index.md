@@ -3,9 +3,9 @@
 
 ## دروس کارشناسی
 
-[ 1115157_01 نظریه زبان ها و ماشین](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[ 1115157_01 نظریه زبان ها و ماشین](https://rezvanehnurzayi.github.io/)
 <br>
-[ 1322010_02 روش پژوهش و ارائه](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture)
+[ 1322010_02 روش پژوهش و ارائه](https://rezvanehnurzayi.github.io/)
 
 
 --------------
@@ -65,7 +65,6 @@
      <th ></th>
      <th ><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareArchitecture">معماری نرم افزار</a></th>
      <th><a  href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/SoftwareDevelopmentMethodologies">متدولوژی ایجاد نرم افزار</a></th>
-    <th><a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedSoftwareEngineering">مهندسی نرم افزار پیشرفته</a></th>
     <th>پنج شنبه</th>
   </tr>
 </table>
