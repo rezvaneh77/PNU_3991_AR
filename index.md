@@ -3,13 +3,10 @@
 
 ## دروس کارشناسی
 
-[1115026_01 مهندسي نرم افزارپيشرفته 3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
+[ 1115157_01 نظریه زبان ها و ماشین](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/AdvancedSoftwareEngineering)
 <br>
-[1115280_01 معماري نرم افزار 3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture)
-<br>
-[1115282_01 متدولوژي ايجاد نرم افزار 3](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareDevelopmentMethodologies)
-<br>
-[1115029_02 سمينار 2](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/MscSeminar-1)
+[ 1322010_02 روش پژوهش و ارائه](https://github.com/saharzeinivand/PNU_3991_AR/tree/main/SoftwareArchitecture)
+
 
 --------------
 ## روز و ساعت ارائه دروس
