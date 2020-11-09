@@ -4,8 +4,7 @@
 <br>
 🔹 <a href="https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/">SOP</a>
 <br>
-🔹
-
+🔹 <a href="https://rezvaneh77.github.io//">resume</a>
 
 ------------------
 ## Winter Semester Courses 1399/2020
