@@ -12,7 +12,7 @@
 <br>
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
 <br>
-------------------------
+
 <br>
 
 ## دروس کارشناسی
