@@ -10,7 +10,8 @@
 <br>
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/java.pdf">javascript Certificate</a>
 <br>
-● <a herf="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
+● <a herf="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.pdf">jlord patchwork</a>
+<br>
 <br>
 ------------------------
 <br>
