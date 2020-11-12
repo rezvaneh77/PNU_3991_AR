@@ -8,7 +8,7 @@
 <br>
 ● <a href="https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/">SOP</a>
 <br>
-● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/java.pdf">javascript Certificate</a>
+● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/js.pdf">javascript Certificate</a>
 <br>
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
 <br>
