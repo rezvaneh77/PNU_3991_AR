@@ -9,7 +9,7 @@
 🔹 <a href="https://rezvaneh77.github.io//">resume</a>
 <br>
 <br>
-<a herf="https://www.github.com/rezvaneh77">patchwork</a>
+🔹 <a herf="https://www.github.com/rezvaneh77">patchwork</a>
 
 ------------------
 ## Winter Semester Courses 1399/2020
