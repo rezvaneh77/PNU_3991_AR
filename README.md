@@ -19,7 +19,7 @@
 
 ## دروس کارشناسی
 
-[ 1115157_01 نظریه زبان ها و ماشین](https://rezvanehnurzayi.github.io/)
+<a herf="https://github.com/rezvaneh77/Language-theory/tree/main">[ 1115157_01 نظریه زبان ها و ماشین](https://rezvanehnurzayi.github.io/)
 <br>
 [ 1322010_02 روش پژوهش و ارائه](https://rezvanehnurzayi.github.io/)
 
