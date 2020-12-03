@@ -14,7 +14,7 @@
 <br>
 ● <a href="https://github.com/rezvaneh77/Language-theory/tree/main">نظریه زبان ها و ماشین</a>
 <br>
-
+● <a href="https://github.com/rezvaneh77/research-method">روش پژوهش و ارائه</a>
 <br>
 
 ## دروس کارشناسی
