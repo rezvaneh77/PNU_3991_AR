@@ -12,14 +12,14 @@
 <br>
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
 <br>
-● <a herf="https://github.com/rezvaneh77/Language-theory/tree/main">nazariye Zaban</a>
+● <a href="https://github.com/rezvaneh77/Language-theory/tree/main">نظریه زبان ها و ماشین</a>
 <br>
 
 <br>
 
 ## دروس کارشناسی
 
-<a herf="https://github.com/rezvaneh77/Language-theory/tree/main">[ 1115157_01 نظریه زبان ها و ماشین](https://rezvanehnurzayi.github.io/)
+[ 1115157_01 نظریه زبان ها و ماشین](https://rezvanehnurzayi.github.io/)
 <br>
 [ 1322010_02 روش پژوهش و ارائه](https://rezvanehnurzayi.github.io/)
 
