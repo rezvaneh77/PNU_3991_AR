@@ -21,7 +21,7 @@
 
 [ 1115157_01 نظریه زبان ها و ماشین](https://github.com/rezvaneh77/Language-theory/tree/main)
 <br>
-[ 1322010_02 روش پژوهش و ارائه]
+[ 1322010_02 روش پژوهش و ارائه](https://github.com/rezvaneh77/research-method)
 
 
 --------------
