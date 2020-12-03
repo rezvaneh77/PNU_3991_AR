@@ -12,10 +12,6 @@
 <br>
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
 <br>
-● <a href="https://github.com/rezvaneh77/Language-theory/tree/main">نظریه زبان ها و ماشین</a>
-<br>
-● <a href="https://github.com/rezvaneh77/research-method">روش پژوهش و ارائه</a>
-<br>
 
 ## مقطع کارشناسی
 
