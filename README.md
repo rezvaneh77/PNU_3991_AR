@@ -12,6 +12,8 @@
 <br>
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
 <br>
+● <a herf="https://github.com/rezvaneh77/Language-theory/tree/main">1115157_01 نظریه زبان ها و ماشین</a>
+<br>
 
 <br>
 
