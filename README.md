@@ -17,9 +17,9 @@
 ● <a href="https://github.com/rezvaneh77/research-method">روش پژوهش و ارائه</a>
 <br>
 
-## دروس کارشناسی
+## مقطع کارشناسی
 
-[ 1115157_01 نظریه زبان ها و ماشین](https://rezvanehnurzayi.github.io/)
+[ 1115157_01 نظریه زبان ها و ماشین]
 <br>
 [ 1322010_02 روش پژوهش و ارائه](https://rezvanehnurzayi.github.io/)
 
