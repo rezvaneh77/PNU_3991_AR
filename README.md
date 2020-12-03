@@ -12,7 +12,7 @@
 <br>
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
 <br>
-● <a herf="https://github.com/rezvaneh77/Language-theory/tree/main">نظریه زبان ها و ماشین</a>
+● <a herf="https://github.com/rezvaneh77/Language-theory/tree/main">nazariye Zaban</a>
 <br>
 
 <br>
