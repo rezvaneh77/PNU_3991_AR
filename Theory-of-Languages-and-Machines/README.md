@@ -18,7 +18,7 @@
 <br>
 ●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/267.tex">267.tex</a>
 <br>
-●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/268.pdf">268.pdf</a>
+●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/268.pdf">268.pdf</a>
 <br>
 ●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/268.tex">268.tex</a>
 
