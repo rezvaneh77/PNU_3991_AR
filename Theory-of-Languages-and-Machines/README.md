@@ -10,7 +10,7 @@
 <br>
 ●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/265.tex">265.tex</a>
 <br>
-●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/266.pdf">266.pdf</a>
+●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/266.pdf">266.pdf</a>
 <br>
 ●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/266.tex">266.tex</a>
 <br>
