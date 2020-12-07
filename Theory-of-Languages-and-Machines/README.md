@@ -1,4 +1,4 @@
-# Language-theory
+# Theory-of-Languages-and-Machines
 <br>
 ●  <a href="https://aparat.com/v/62KSL">ارائه شفاهی فصل اول از مرجع اصلی درس</a>
 <br>
