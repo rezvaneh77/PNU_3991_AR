@@ -1,1 +1,102 @@
+\documentclass[10pt,a4paper]{article}
 
+\begin{document}
+
+\small
+
+\begin{flushright}
+  \textsf{\textbf{Regular Expression}} $|$ \textbf{\textsf{267}}
+\end{flushright}
+
+Closure is a property which describes when we combine any two elements of the set; the result is
+also included in the set.
+
+If we multiply two integer numbers, we will get another integer number. Since this process is always
+true, it is said that the integer numbers are ‘closed under the operation of multiplication’. There is simply
+no way to escape the set of integer numbers when multiplying.
+
+Let $S = \{1,2,3,4,5,6,7,8,9,10….\}$ is a set of integer numbers.
+
+$1 × 2 = 2$
+
+$2 × 3 = 6$
+
+$5 × 2 = 10$
+
+All are included in the set of integer numbers.
+
+We can conclude that integer numbers are closed under the operation of multiplication.
+
+\begin{flushleft}
+  \textbf{Theorem 5.3}: Two REs $L_{1}$ and $L_{2}$ over $\Sigma$ are closed under union operation.
+
+  \textrm{\textbf{Proof:}} We have to prove that if $L_{1}$ and $L_{2}$ are regular over $\Sigma$,then their union, i.e.,$L_{1} \cup L_{2}$ will be also regular.
+
+As $L_{1}$ and $L_{2}$ are regular over $\Sigma$, there must exist FA $ M_{1} = (Q_{1}, \Sigma, \delta_{1}, q_{01}, F_{1}) $ and $ M_{2} = (Q_{2}, \Sigma , \delta_{2},q_{02}, F_{2})$ such that $L_{1} \varepsilon M_{1}$ and $L_{2} \varepsilon M_{2}$
+
+Assume that there is no common state between $Q_{1}$ and $Q_{2}$, i.e., $Q_{1} \cap Q_{2} = {\O}$.
+
+Defi ne another FA, $M_{3} = (Q, \Sigma, \delta, q_{0}, F)$ where
+
+1. $Q = Q_{1} \cup Q_{2} \cup \{q_{0}\}$, where $q_{0}$ is a new state $\notin Q_{1} \cup Q_{2}$
+
+2. $F = F_{1} \cup F_{2}$
+
+3. Transitional function $\delta$ is defi ned as $\delta (q_{0}, \varepsilon) \rightarrow \{q_{01}, q_{02}\}$
+
+and\qquad\qquad\qquad\qquad\qquad $\delta(q, \Sigma) \rightarrow \delta_{1}(q, \Sigma) \:\textrm{if}\: q \varepsilon Q_{1}$
+
+$$\delta(q, \Sigma) \rightarrow \delta_{2}(q, \Sigma) \:\textrm{if}\: q \varepsilon Q_{2}$$
+
+\end{flushleft}
+
+It is clear from the previous discussion that from $q_{0}$ we can reach either the initial state $q_{1}$ of $M_{1}$ or the initial state $q_{2}$ of $M_{2}$.
+
+Transitions for the new FA, M, are similar to the transitions of $M_{1}$ and $M_{2}$.
+
+As $F = F_{1} \cup F_{2}$, any string accepted by$M_{1}$or$M_{2}$ will also be accepted by M.
+
+Therefore, $L_{1} \cup L_{2}$ is also regular.
+
+\emph{\textbf{Example:}}
+
+Let\qquad\qquad\qquad\qquad\qquad\; $L_{1} = a^{*}(a + b)b^{*}$
+$$L_{2} = ab(a + b)b^{*}$$
+
+The FA $M1$ accepting $L1$ is as shown in Fig. $5.38(a)$.
+
+The FA $M2$ accepting $L2$ is as shown in Fig. $5.38(b)$.
+
+The machine M produced by combining$M1$and$M2$is as shown in Fig. $5.38(c)$.
+
+It accepts $L_{1} \cup L_{2}$.
+
+\emph{\textbf{Theorem 5.4}}: The complement of an RE is also regular.
+
+If L is regular, we have to prove that $L^{T}$ is also regular.
+
+\qquad As L is regular, there must be an FA, $M = (Q, \Sigma, \delta, q_{0}, F)$, accepting L.
+
+M is an FA, and so M has a transitional system.
+
+\quad Let us construct another transitional system $M\prime$ with the state diagram of M but reversing the direction of the directed edges. $M\prime$ can be designed as follows:
+
+1. The set of states of $M\prime$ is the same as M
+
+2. The set of input symbols of $M\prime$ is the same as M
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+\end{document}
