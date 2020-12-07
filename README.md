@@ -15,9 +15,9 @@
 
 ## مقطع کارشناسی
 
-[ 1115157_01 نظریه زبان ها و ماشین](https://github.com/rezvaneh77/Language-theory/tree/main)
+[ 1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
 <br>
-[ 1322010_02 روش پژوهش و ارائه](https://github.com/rezvaneh77/research-method)
+[ 1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
 
 
 --------------
