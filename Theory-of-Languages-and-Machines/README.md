@@ -4,7 +4,7 @@
 <br>
 ●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/msl1.rar">ارائه شفاهی مسئله اول با لاتک</a>
 <br>
-●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/msl2.rar">ارائه شفاهی مسئله دوم با لاتک</a>
+●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/msl2.rar">ارائه شفاهی مسئله دوم با لاتک</a>
 <br>
 ●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/265.pdf">265.pdf</a>
 <br>
