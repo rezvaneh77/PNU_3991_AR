@@ -1,1 +1,89 @@
+\documentclass[10pt,a4paper]{article}
 
+\usepackage{graphicx}
+
+\begin{document}
+
+
+  $\textsf{\textbf{266}}$ $|$ \texttt{\textbf{Introduction to Automata Theory, Formal Languages and Computation}}
+\qquad
+
+\footnotesize
+
+2. y consists of only ‘)‘, and let $y =)^{k}$
+
+3. y consists of both ‘(‘ and ‘)‘ , and let $y =(^{k})^{k}$
+
+For case $I$ , take $i = 0$ .
+
+$$ w = xyz = (^{n-k} (^{k} )^{n} $$
+$$ xy^{0}z = (^{n-k} )^{n} \quad\textsl{which is not a set of all balanced parenthesis . }$$
+
+For case $II$ , take $i = 0$ .
+
+$$ w = xyz = (^{n} )^{k} )^{n-k} $$
+$$ xy^{0}z = (^{n} )^{n-k} \quad\textsl{which is not a set of all balanced parenthesis . }$$
+
+For case $III$ , take $i = 2$ .
+
+$$ w = xyz = (^{n-k} (^{k} )^{k} )^{n-k} $$
+$$ xy^{2}z = (^{n} )^{k} (^{k} )^{n} \quad\textsl{which is not a set of all balanced parenthesis . }$$
+
+In all the three cases, there are contradictions and, hence, the language is
+
+\;
+ not regular.
+
+\begin{flushleft}
+\begin{figure}[h]
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=3cm]{1}\\Show that L = \{$ 0^{n} 1^{2n} , where n \geq 1 $\} is not regular .
+\end{figure}
+\end{flushleft}
+
+\begin{flushleft}
+  \textbf{\emph{Solution} :}
+
+\textbf{\emph{Step I} :} Assume that $L$ is regular. Let $n$ be the number of states of the FA accepting $L$ .
+
+\textbf{\emph{Step II} :} Let $w$ = $0^{n} 1^{2n} $, where $ n \geq 1 $ . $|$ $w$ $|$ = $ 3n >n $. By using the pumping lemma, we can write
+
+$$ w = xyz, with \; w = xyz \; with | xy | \leq n \; and \; | y | > 0 . $$
+
+\textbf{\emph{Step III} :} We want to find a suitable \; i\; so that $xy^{i}z$ $\notin$ $L$ . The string consists of ‘0’ and ‘1’. y can be any of the following forms
+
+1. y consists of only ‘0’, and let $y = 0^{k}$
+
+2. y consists of only ‘1’, and let $y = 1^{k}$
+
+3. y consists of both ‘0’ and ‘1’, and let $y = 0^{k} 1^{k}$
+
+
+For case $I$ , take $i = 0$ .
+
+$$ w = xyz = 0^{n} 1^{2n}= 0^{n-k} 0^{k} 1^{2n} $$
+$$ xy^{0}z = 0^{n-k} 1^{2n} , as \; k \neq 0 , (n-k)\neq n $$
+
+For case $II$ , take $i = 0$ .
+
+$$ w = xyz = 0^{n} 1^{2n}= 0^{n} 1^{k} 1^{2n-k} $$
+$$ xy^{0}z = 0^{n} 1^{2n-k} , as \; k \neq 0 , (2n-k)\neq n $$
+
+For case $III$ , take $i = 2$ .
+
+$$ w = xyz = 0^{n} 1^{2n}= 0^{n-k} 0^{k} 1^{k} 1^{2n-k} $$
+$$ xy^{2}z = 0^{n} 1^{k} 0^{k} 1^{2n} , \textsl{which is not in the form}\; 0^{n} 1^{2n}$$
+
+For all the three cases, we are getting contradictions and, therefore, $L$ is not regular.
+
+\end{flushleft}
+
+\begin{flushleft}
+  \textsf{\textbf{5.12 Closure Properties of Regular Set}}
+
+  A set is closed (under an operation) if and only if the operation on two elements of the set produces
+another element of the set. If an element outside the set is produced, then the operation is not closed .
+\end{flushleft}
+
+
+\end{document}
