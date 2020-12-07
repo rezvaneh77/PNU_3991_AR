@@ -1,1 +1,87 @@
+\documentclass[10pt,a4paper]{article}
 
+\usepackage{graphicx}
+
+\begin{document}
+
+\small
+
+\begin{flushright}
+  \textsf{\textbf{Regular Expression}} $|$ \textbf{\textsf{265}}
+\end{flushright}
+
+\begin{flushleft}
+  So, $xy^{2}z = a^{n-k} a^{2k}b a^n = a^{n+k}b a^n \;or\;  a^n b a^{2k} a^{n-k}  = a^n b a^{n+k}$ .
+
+As $k \neq 0 , n+k \neq n$ . Therefore, $xy^{2}z  \notin  L$ .
+
+This is a contradiction, and so $L$ is not regular .
+
+For Case II , let us take i = k . So, $xy^{k}z = a^{n}\; b^{k}\; a^{n}$.This is not in the form $a^{n} b a^{n}$.Therefore , $x y^k z \notin L$.
+
+This is a contradiction, and so L is not regular .
+\end{flushleft}
+
+\begin{flushleft}
+\begin{figure}[h]
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=3cm]{1}\\Show that L = \{$a^n b^n a b^{n+1}$\} is not regular .
+\end{figure}
+\end{flushleft}
+
+\begin{flushleft}
+  \textbf{\emph{Solution} :}
+
+\textbf{\emph{Step I} :} Assume that $L$ is regular. Let $n$ be the number of states of the FA accepting $L$ .
+
+\textbf{\emph{Step II} :} Let w =$a^n b^n a b^{n+1}$ , and so $| w |$ = $(3n + 2) > n$. By using the pumping lemma, we can write w = $xyz$ ,with w=$xyz$ with$|xy|$ $\leq$ n and $|y|$ $>$ 0 .
+
+\textbf{\emph{Step III} :} We want to find a suitable i so that $xy^{i}z$ $\notin$ $L$ .The string consists of ‘a’ and ‘b’. So, y can be of any of these .
+
+\end{flushleft}
+
+1. y contains only ‘a’, and let y = $a^k$
+
+2. y contains only ‘b’, and let y = $b^l$
+
+3. y contains both ‘a’ and ‘b’, and let y = $b^{k}a$
+
+For case $I$, take $i = 0$ .
+
+$$ w = xyz = (a^{n-k})(a^k)(b^{n} a b^{n+1})$$
+$$ xy^{0}z = a^{n-k} b^{n} ab^{n+1}\; \textrm{which is not in the form}\; a^{n} b^{n} ab^{n+1} .  $$
+
+
+For case $II$, take $i = 0$ .
+
+$$ w=xyz=(a^{n} b^{n-1})(b^{1}) ab^{n+1} $$
+$$ xy^{0}z = a^{n} b^{n-1} ab^{n+1}\; \textrm{which is not in the form}\; a^{n} b^{n} ab^{n+1} . $$
+
+For case $III$, take $i = 2$ .
+
+$$ w=xyz=a^{n} b^{n-k}(b^{k}a)^{2} b^{n+1} $$
+$$ = a^{n} b^{n}a\: b^{k} ab^{n+1}\; \textrm{which is not in the form}\; a^{n} b^{n} ab^{n+1} . $$
+
+In all the three cases,there are contradictions and,hence,the language is not regular.
+
+\begin{flushleft}
+\begin{figure}[h]
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=3cm]{2}\\Show that the language containing the set of all balanced parenthesis is not
+\end{figure}
+\end{flushleft}
+
+\begin{flushleft}
+  \textbf{\emph{Solution} :}
+
+\textbf{\emph{Step I} :} Assume that $L$ is regular. Let $n$ be the number of states of the FA accepting $L$ .
+
+\textbf{\emph{Step II} :} Let w = (((….()….)))=$(^n)^{n}$ . $|$ w $|$=$2n > n$ .\,\,\,\textrm{By using the pumping lemma,we can write}w=xyz ,with w=xyz with $|$ xy $|$ $\leq$ n and $|$ y $|$ $>$ 0.
+
+\textbf{\emph{Step III} :} We want to find a suitable i so that $xy^{i}z \notin$ L .The string consists of ‘(‘ and ‘)’. So, y can be of any of these
+
+\end{flushleft}
+
+1. y consists of only ‘(‘, and let $y =(^{k}$
+
+\end{document}
