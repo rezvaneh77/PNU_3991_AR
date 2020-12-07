@@ -6,7 +6,7 @@
 <br>
 ●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/msl2.rar">ارائه شفاهی مسئله دوم با لاتک</a>
 <br>
-●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/265.pdf">265.pdf</a>
+●  <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/265.pdf">265.pdf</a>
 <br>
 ●  <a href="https://github.com/rezvaneh77/Language-theory/blob/main/265.tex">265.tex</a>
 <br>
