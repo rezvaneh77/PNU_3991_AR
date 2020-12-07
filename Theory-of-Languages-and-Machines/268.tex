@@ -1,1 +1,71 @@
+\documentclass[10pt,a4paper]{article}
 
+\usepackage{graphicx}
+
+\begin{document}
+
+\footnotesize
+
+\begin{flushleft}
+  \textbf{\textsf{268}$|$\textsf{Introduction to Automata Theory,Formal Languages and Computation}}
+\end{flushleft}
+
+
+\begin{figure}[h]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=12cm]{Figs. 5.38}\\Fig.5.38(a)–(c)
+\end{figure}
+
+
+
+\begin{flushleft}
+  3. The initial state of $M\prime$ is the same as the final state of M ($M\prime$ is the reverse direction of M)
+
+4. The fi nal state of $M\prime$ is the same as the initial state of M ($M\prime$ is the reverse direction of M)
+\end{flushleft}
+
+\begin{flushleft}
+\qquad Let a string w belong to L, i.e., w $\varepsilon$ M. So,there is a path from $q_{0}$ to F with path value w. By reversing the edges, we get a path from F to $q_{0}$ (beginning and final state of $M\prime$) in $M\prime$. The path value is the reverse of w, i.e., $w^{T}$. So, $w^{T} \varepsilon\, M\prime$.
+\end{flushleft}
+
+
+So, the reverse of the string w is regular.
+
+\begin{flushleft}
+  \textrm{\textbf{Example}}:
+
+Let $L = ab(a + b)^{*}$.
+\end{flushleft}
+
+The FA M accepting L is as shown in Fig. $5.39(a)$.
+
+The reverse of the FA $M\prime$ accepting Lc is shown in Fig. $5.39(b)$.
+
+\begin{figure}[h]
+  \centering
+  % Requires \usepackage{graphicx}
+  \includegraphics[width=10cm]{Fig. 5.39}\\ Fig.5.39(a)–(b)
+\end{figure}
+
+
+$M\prime$ accepts $(a + b)^{*}ba$ which is reverse of L.
+
+\begin{flushleft}
+  \emph{\textbf{Theorem 5.5}}:If L is regular and L is a subset of $\Sigma^{*}$,prove that $\Sigma^{*} – L$ is also a regular set.
+\end{flushleft}
+
+As L is regular,there must be an FA,$M = (Q, \Sigma, \delta, q_{0}, F)$,accepting L.Let us construct another DFA
+
+\begin{flushleft}
+  $M\prime = (Q, \Sigma, \delta, q_{0}, F\prime)$ where $F\prime$ = Q–F. So, the two DFA differ only in their final states. A fi nal state of M
+
+is a non-final state of $M\prime$ and vice versa.
+\end{flushleft}
+
+Let us take a string w which is accepted by $M\prime$. So,$\delta(q_{0}, w) \varepsilon F\prime, i.e., \delta(q_{0}, w) \varepsilon (Q – F)$.
+
+
+
+
+\end{document}
