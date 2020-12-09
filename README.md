@@ -13,11 +13,6 @@
 ● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
 <br>
 
-## مقطع کارشناسی
-
-[ 1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
-<br>
-[ 1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
 
 ## گروه ها
 1. G-U01
@@ -38,6 +33,14 @@
      1. [_RPM-11_امین توکلی صومعه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/11_%D8%A7%D9%85%D9%8A%D9%86%20%D8%AA%D9%88%D9%83%D9%84%D9%8A%20%D8%B5%D9%88%D9%85%D8%B9%D9%87)     
     1. [_RPM-28_محمد سرمست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/28_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D8%B1%D9%85%D8%B3%D8%AA)    
     1. [_RPM-35_امیرحسین عارف](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/35_%D8%A7%D9%85%D9%8A%D8%B1%D8%AD%D8%B3%D9%8A%D9%86%20%D8%B9%D8%A7%D8%B1%D9%81)
+    
+    
+    
+## دروس کارشناسی
+
+[ 1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines#TOC)
+<br>
+[ 1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC)
 --------------
 ## روز و ساعت ارائه دروس
 
