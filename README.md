@@ -16,7 +16,7 @@
 
 ## گروه ها
 1. G-U01
-    1. [_UID-15رضوانه نورزایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
+    1. [_UID-15رضوانه نورزائی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
     1. [_UID-65_فاطمه موسایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/65_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%D8%A6%D9%8A%20%D8%A7%D8%BA%D8%AC%D9%87%20%D9%83%D9%87%D9%84) 
     1. [_UID-61_فاطمه مرادي](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/61_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D8%B1%D8%A7%D8%AF%D9%8A)     
     1. [_UID-19_مهدیه حسینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/19_%D9%85%D9%87%D8%AF%D9%8A%D9%87%20%D8%AD%D8%B3%D9%8A%D9%86%D9%8A)    
@@ -28,7 +28,7 @@
     1. [_UID-38_فاطمه عابدینی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/38_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%B9%D8%A7%D8%A8%D8%AF%D9%8A%D9%86%D9%8A)
 
 1. G-R02
-    1. [_RPM-64_رضوانه نورزایی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
+    1. [_RPM-64_رضوانه نورزائی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
     1. [_RPM-06_محمدمهدی اکبری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/06_%D9%85%D8%AD%D9%85%D8%AF%D9%85%D9%87%D8%AF%D9%8A%20%D8%A7%D9%83%D8%A8%D8%B1%D9%8A) 
     1. [_RPM-11_امین توکلی صومعه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/11_%D8%A7%D9%85%D9%8A%D9%86%20%D8%AA%D9%88%D9%83%D9%84%D9%8A%20%D8%B5%D9%88%D9%85%D8%B9%D9%87)     
     1. [_RPM-28_محمد سرمست](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/28_%D9%85%D8%AD%D9%85%D8%AF%20%D8%B3%D8%B1%D9%85%D8%B3%D8%AA)    
