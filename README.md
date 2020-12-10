@@ -1,7 +1,6 @@
 # PNU_3991_AR
 ---
 - [Github](https://github.com/rezvaneh77)
-<br>
 - [PNU_3991_AR](https://github.com/rezvaneh77/PNU_3991_AR)
 <br>
 ● <a href="https://rezvaneh77.github.io//">resume</a>
