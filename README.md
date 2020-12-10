@@ -2,14 +2,11 @@
 ---
 - [Github](https://github.com/rezvaneh77)
 - [PNU_3991_AR](https://github.com/rezvaneh77/PNU_3991_AR)
-● [resume](https://rezvaneh77.github.io//)
-<br>
-● <a href="https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/">SOP</a>
-<br>
-● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/js.pdf">javascript Certificate</a>
-<br>
-● <a href="https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg">jlord patchwork</a>
-<br>
+- [resume](https://rezvaneh77.github.io//)
+- [SOP](https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/)
+- [javascript Certificate](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/js.pdf)
+- [jlord patchwork](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg)
+
 
 
 ## گروه ها
