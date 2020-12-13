@@ -1,5 +1,6 @@
 # Research-And-Presentation-Methods
 
+- [جستجوی منابع دیگر](https://methods.sagepub.com/methods-map)
 - [ارائه شفاهی با بیمر](https://aparat.com/v/pJcbO)
 - [beamer.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.pdf)
 - [beamer.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.tex)
