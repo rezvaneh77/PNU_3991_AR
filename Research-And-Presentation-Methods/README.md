@@ -19,3 +19,6 @@
 
 # جستجوی منابع دیگر
 - [Social Networks and Mobility Intenetions of Refugees in Hofors : پایان نامه ارشد دانشگاه استکهلم با موضوع](https://methods.sagepub.com/methods-map)
+
+# معرفی دروس مشابه
+- [دانشگاه PEPPERDINE در کالیفرنیا](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
