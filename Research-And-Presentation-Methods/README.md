@@ -1,8 +1,13 @@
 # Research-And-Presentation-Methods
 
+
+
+# ارائه شفاهی با بیمر
 - [ارائه شفاهی با بیمر](https://aparat.com/v/pJcbO)
 - [beamer.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.pdf)
 - [beamer.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.tex)
+
+# ارائه کتبی با لاتک
 - [187.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.pdf)
 - [187.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.tex)
 - [188.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/188.pdf)
