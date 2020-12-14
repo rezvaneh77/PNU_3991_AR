@@ -3,6 +3,7 @@
 # رضوانه نورزائی
 --------------
 
+
 - [Github](https://github.com/rezvaneh77)
 - [PNU_3991_AR](https://github.com/rezvaneh77/PNU_3991_AR)
 - [resume](https://rezvaneh77.github.io//)
@@ -13,9 +14,16 @@
 
 ## گروه ها
 1. G-R01
-    1. [_RPM01-05_نازنین امینی عشق آبادی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/05_%D9%86%D8%A7%D8%B2%D9%86%D9%8A%D9%86%20%D8%A7%D9%85%D9%8A%D9%86%D9%8A%20%D8%B9%D8%B4%D9%82%20%D8%A7%D8%A8%D8%A7%D8%AF%D9%8A)
+    1. [_RPM01-05_نازنین امینی عشق آبادی](github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/05_نازنين%20اميني%20عشق%20ابادي)
+    1. [_RPM01-09_فاطمه تاتلاری]()
+    1. [_RPM01-12_زهرا جمشیدی]()
+    1. [_RPM01-16_آیدا حنیفی]
+    1. [_RPM01-29_حورا سعیدی]
+    1. [_RPM01-32_فائزه صیدی]
+    1. [_RPM01-42_سمیرا عباسی]
+    1. [_RPM01-47_زهرا عنایتی]
     1. [_RPM02-64_رضوانه نورزائی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
-    1. 
+     
 
 1. G-L02
     1. [_TLM02-65_فاطمه موسائی اغجه کهل](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/65_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%85%D9%88%D8%B3%D8%A7%D8%A6%D9%8A%20%D8%A7%D8%BA%D8%AC%D9%87%20%D9%83%D9%87%D9%84)
