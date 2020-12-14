@@ -18,4 +18,4 @@
 - [189.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/189.tex)
 
 # جستجوی منابع دیگر
-- [پایانامه ارشد دانشگاه استکهلم با موضوع : Social Networks and Mobility Intenetions of Refugees in Hofors](https://methods.sagepub.com/methods-map)
+- [Social Networks and Mobility Intenetions of Refugees in Hofors : پایان نامه ارشد دانشگاه استکهلم با موضوع](https://methods.sagepub.com/methods-map)
