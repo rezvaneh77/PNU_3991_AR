@@ -22,3 +22,6 @@
 
 # معرفی دروس مشابه
 - [در کالیفرنیا PEPPERDINE دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
+- [در استرالیا NWECASTEL دانشگاه](https://libguides.newcastle.edu.au/researchmethods)
+- [در سانفرانسیسکو POLSE ONE دانشگاه](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218770)
+- [SOUTHAMPTON دانشگاه](https://library.soton.ac.uk/sash/research-methods)
