@@ -1,8 +1,10 @@
+<div dir="rtl">
+  
 # Research-And-Presentation-Methods
 
 
 <br>
-<div dir="rtl">
+
 
 # معرفی دروس مشابه در دانشگاههای دیگر
 - [در کالیفرنیا PEPPERDINE دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
