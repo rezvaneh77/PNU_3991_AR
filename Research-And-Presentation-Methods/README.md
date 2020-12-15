@@ -16,8 +16,8 @@
 - [پایان نامه ارشد دانشگاه دانشگاه استکهلم با موضوع : Social Networks and Mobility Intenetions of Refugees in Hofors ](https://methods.sagepub.com/methods-map)
 
 # ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
-- [pdf.187](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.pdf)
-- [tex.187](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.tex)
+- [187.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.pdf)
+- [187.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.tex)
 - [188.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/188.pdf)
 - [188.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/188.tex)
 - [189.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/189.pdf)
