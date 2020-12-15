@@ -4,7 +4,7 @@
 <br>
 
 
-# معرفی دروس مشابه
+# معرفی دروس مشابه در دانشگاههای دیگر
 - [در کالیفرنیا PEPPERDINE دانشگاه](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
 - [در استرالیا NWECASTEL دانشگاه](https://libguides.newcastle.edu.au/researchmethods)
 - [در سانفرانسیسکو POLSE ONE دانشگاه](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0218770)
