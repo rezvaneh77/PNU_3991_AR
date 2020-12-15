@@ -1,4 +1,7 @@
+<div dir="rtl">
+
 # Theory-of-Languages-and-Machines
+---
 
 <br>
 
