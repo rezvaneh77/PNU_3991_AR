@@ -1,1 +1,114 @@
+\documentclass [7pt]{beamer}
+\usepackage{xcolor}	
+\usepackage{tikz}
+\usetheme{Frankfurt}
+\useoutertheme{infolines}
+\usepackage{ragged2e}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\begin{document}
+\small
+\section*{mesal 5.32 , 5.34}
+\subsection*{Rezvaneh Noorzayi }	
+\begin{frame}
+\justifying	
+Example 5.32 . Show that $\mathrm{L}=\left\{\mathrm{a}^{\mathrm{n}} \mathrm{b}^{\mathrm{n}} \mathrm{ab}^{\mathrm{n}+1}\right\}$ is not regular.
+\begin{flushleft}
+Solution :
+\end{flushleft}
+Step I: Assume that $\mathrm{L}$ is regular. Let $\mathrm{n}$ be the number of states of the FA accepting $\mathrm{L}$.
+\begin{flushleft}
+Step II: Let w $=\mathrm{a}^{\mathrm{n}} \mathrm{b}^{\mathrm{n}} \mathrm{ab}^{\mathrm{n}+1},$ and $\mathrm{so}|\mathrm{w}|=(3 \mathrm{n}+2)>\mathrm{n} .$ By using the pumping lemma, we can write $\mathrm{w}=$
+$\mathrm{xyz},$ with $\mathrm{w}=\mathrm{xyz}$ with $|\mathrm{xy}| \leq \mathrm{n}$ and $|\mathrm{y}|>0$
+\end{flushleft}
+\begin{flushleft}
+Step III: We want to find a suitable i so that $\mathrm{xy}^{\mathrm{i}} \mathrm{z} \notin \mathrm{L}$. The string consists of 'a' and 'b". So, y can be of any of these.
+\end{flushleft}
+\begin{itemize}
+\item	
+1. y contains only "a', and let y $=\mathrm{a}^{\mathrm{k}}$
+\item
+2. y contains only "b', and let y $=\mathrm{b}^{1}$
+\item
+3. y contains both "a' and "b', and let y = $=\mathrm{b}^{\mathrm{k}}\mathrm{a} $
+\end{itemize}
+\justifying			
+For case I, take $i=0$.
+$$
+\mathrm{w}=\mathrm{xyz}=\left(\mathrm{a}^{\mathrm{n}-\mathrm{k}}\right)\left(\mathrm{a}^{\mathrm{k}}\right)\left(\mathrm{b}^{\mathrm{n}} \mathrm{a} \mathrm{b}^{\mathrm{n}+1}\right)
+$$
+$$
+\mathrm{xy}^{0} \mathrm{z}=\mathrm{a}^{\mathrm{n}-\mathrm{k}} \mathrm{b}^{\mathrm{n}} \mathrm{a} \mathrm{b}^{\mathrm{n}+1} \text { which is not in the form } \mathrm{a}^{\mathrm{n}} \mathrm{b}^{\mathrm{n}} \mathrm{ab}^{\mathrm{n} + {1}}
+$$
+\end{frame}
+\begin{frame}	
+For case II, take $i=0$.
+$$\mathrm{w}=\mathrm{xyz}=\left(\mathrm{a}^{\mathrm{n}} \mathrm{b}^{\mathrm{n}-\mathrm{l}}\right)\left(\mathrm{b}^{\mathrm{1}}\right) \mathrm{a} \mathrm{b}^{\mathrm{n}+1}$$
+$$x y^{0} z=a^{n} b^{n-1} a b^{n+1} \text { which is not in the form } a^{n} b^{n} a b^{n+1}$$
+For case III, take $i=2$
 
+$$\mathrm{w}=\mathrm{xyz}=\mathrm{a}^{\mathrm{n}} \mathrm{b}^{\mathrm{n}-\mathrm{k}}\left(\mathrm{b}^{\mathrm{k}} \mathrm{a}\right)^{2} \mathrm{~b}^{\mathrm{n}+1}$$
+$$
+=a^{n} b^{n} a b^{k} a b^{n+1} \text { which is not in the form } a^{n} b^{n} a b^{n+1}
+$$
+
+In all the three cases, there are contradictions and, hence, the language is not regular.
+\end{frame}
+
+\begin{frame}
+\justifying
+5.34 Show that $L=\left\{0^{n} 1^{2 n},\right.$ where $\left.n \geq 1\right\}$ is not regular.
+\begin{flushleft}
+Solution:
+\end{flushleft}
+Step I: Assume that $L$ is regular. Let $n$ be the number of states of the FA accepting $L$.
+\begin{flushleft}
+Step II: Let w $=0^{\mathrm{n}} 1^{2 \mathrm{n}},$ where $\mathrm{n} \geq 1 .|\mathrm{w}|=3 \mathrm{n}>\mathrm{n} .$ By using the pumping lemma, we can write
+\end{flushleft}
+\begin{center}
+$\mathrm{w}=\mathrm{xyz},$ with $\mathrm{w}=\mathrm{xyz}$ with $|\mathrm{xy}| \leq \mathrm{n}$ and $|\mathrm{y}|>0$
+\end{center}
+\begin{flushleft}
+Step III: We want to find a suitable i so that $\mathrm{xy}^{\mathrm{i}} \mathrm{z} \notin \mathrm{L}$. The string consists of ' 0 ' and ' 1 ' $\mathrm{y}$ can be any
+of the following forms
+\end{flushleft}
+\begin{itemize}
+\item	
+1. y consists of only "0', and let y $=0^{\text {k }}$
+\item
+2. y consists of only ' 1 , and let $y=1^{\text {k }}$
+\item
+3. y consists of both ' 0 ' and ' 1 ', and let $y=0^{k} 1^{\text {k }}$
+\end{itemize}
+For case I, take $i=0$.
+
+$$
+\begin{aligned}
+	\mathrm{w} &=\mathrm{xyz}=0^{\mathrm{n}} 1^{2 \mathrm{n}}=0^{\mathrm{n}-k} 0^{\mathrm{k}} 1^{2 \mathrm{n}} \\
+	\mathrm{xy}^{0} \mathrm{z} &=0^{\mathrm{n}-\mathrm{k}} 1^{2 \mathrm{n}}, \text { as } \mathrm{k} \neq 0,(\mathrm{n}-\mathrm{k}) \neq \mathrm{n}
+\end{aligned}
+$$
+\end{frame}
+\begin{frame}
+For case II, take $i=0$
+$$
+\begin{aligned}
+	\mathrm{w} &=\mathrm{xyz}=0^{\mathrm{n}} 1^{2 \mathrm{n}}=0^{\mathrm{n}} 1^{\mathrm{k}} 1^{2 \mathrm{n}-\mathrm{k}} \\
+	\mathrm{xy}^{0} \mathrm{z} &=0^{\mathrm{n}} 1^{2 \mathrm{n}-\mathrm{k}}, \text { as } \mathrm{k} \neq 0,(2 \mathrm{n}-\mathrm{k}) \neq \mathrm{n}
+\end{aligned}
+$$
+
+
+For case III, take $i=2$
+
+$$
+\mathrm{w}=\mathrm{xyz}=0^{\mathrm{n}} 1^{2 \mathrm{n}}=0^{n-k} 0^{k} 1^{k} 1^{2 n-k}
+$$
+\begin{center}
+$\mathrm{xy}^{2} \mathrm{z}=0^{\mathrm{n}} 1^{\mathrm{k}} 0^{\mathrm{k}} 1^{2 \mathrm{n}},$ which is not in the form $0^{\mathrm{n}} 1^{2 \mathrm{n}}$
+\end{center}
+
+For all the three cases, we are getting contradictions and, therefore, $\mathrm{L}$ is not regular.	
+
+\end{frame}
+\end{document}
