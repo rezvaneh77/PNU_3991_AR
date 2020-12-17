@@ -19,7 +19,7 @@
 - [268.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/268.tex)
 
 # ارائه شفاهی دو مساله از منابع دیگر با لاتک
-- [ارائه شفاهی دو مثال با لاتک](https://aparat.com/v/5ai7C)
+- [ارائه شفاهی دو مثال با لاتک](https://aparat.com/v/dYJA0)
 - [beamer.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/beamer.pdf)
 - [beamer.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/beamer.tex)
 
