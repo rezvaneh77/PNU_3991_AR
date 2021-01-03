@@ -13,7 +13,7 @@
 - [ دانشگاه SOUTHAMPTON](https://library.soton.ac.uk/sash/research-methods)
 
 # جستجوی منابع دیگر
-- [پایان نامه ارشد دانشگاه دانشگاه استکهلم با موضوع : Social Networks and Mobility Intenetions of Refugees in Hofors ](https://methods.sagepub.com/methods-map)
+- [پایان نامه ارشد دانشگاه استکهلم با موضوع : Social Networks and Mobility Intenetions of Refugees in Hofors ](https://methods.sagepub.com/methods-map)
 
 # ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
 - [187.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.pdf)
