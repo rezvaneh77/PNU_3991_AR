@@ -23,8 +23,17 @@
 - [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها ](https)
 - [خلاصه ارزیابی درس_روش پژوهش و ارائه](https)
 - 
-
 -------------
+
+
+ ## Winter Semester Courses 1399/2020
+    
+## دروس کارشناسی
+
+[1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
+<br>
+[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
+--------------
 
 ## گروه ها
 1. G-R01
@@ -52,17 +61,8 @@
     1. [_TLM02-69_سیده فاطمه ودیعی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/69_%D8%B3%D9%8A%D8%AF%D9%87%20%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%88%D8%AF%D9%8A%D8%B9%D9%8A)
     
 
--------------
+------------------
 
-
- ## Winter Semester Courses 1399/2020
-    
-## دروس کارشناسی
-
-[1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
-<br>
-[1322010_02 روش پژوهش و ارائه](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
---------------
 ## روز و ساعت ارائه دروس
 
 <table style="width:100%">
