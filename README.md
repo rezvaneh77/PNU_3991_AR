@@ -11,6 +11,7 @@
 - [javascript Certificate](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/js.pdf)
 - [jlord patchwork](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/jlord.jpg)
 
+-----------
 
 > ارزیابی ها
 
@@ -23,6 +24,7 @@
 - [خلاصه ارزیابی درس_متدولوژی توسعه نرم افزار](https://github.com/saharzeinivand/PNU_3991_AR/blob/main/SoftwareDevelopmentMethodologies/SZ_SoftwareDevelopmentMethodologies_CheckList_AR_3991.pdf)
 - 
 
+-------------
 
 ## گروه ها
 1. G-R01
@@ -50,7 +52,7 @@
     1. [_TLM02-69_سیده فاطمه ودیعی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_02/69_%D8%B3%D9%8A%D8%AF%D9%87%20%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D9%88%D8%AF%D9%8A%D8%B9%D9%8A)
     
 
-
+-------------
 
 
  ## Winter Semester Courses 1399/2020
