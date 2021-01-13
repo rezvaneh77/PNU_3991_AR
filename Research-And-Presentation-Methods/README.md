@@ -15,7 +15,7 @@
 # جستجوی منابع دیگر
 - [پایان نامه ارشد دانشگاه نورث وسترن آمریکا با موضوع:Using topological information in opportunistic network coding / by Magdalena Johanna (Leenta) Grobler  ](https://hdl.handle.net/10394/2639)
 - [پایان نامه](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/grobler_magdalenaj(1).pdf)
-- صفحات روش و پژوهش  پایان نامه مربوطه : 69 , 68 , 67 , 2 , 9 
+- صفحات روش و پژوهش  پایان نامه مربوطه : 69 , 68 , 67 , 2 , 1 
   
 
 # ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
