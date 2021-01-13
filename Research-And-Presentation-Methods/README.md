@@ -13,7 +13,10 @@
 - [ دانشگاه SOUTHAMPTON](https://library.soton.ac.uk/sash/research-methods)
 
 # جستجوی منابع دیگر
-- [پایان نامه ارشد دانشگاه استکهلم با موضوع : Social Networks and Mobility Intenetions of Refugees in Hofors ](https://methods.sagepub.com/methods-map)
+- [پایان نامه ارشد دانشگاه نورث وسترن آمریکا با موضوع:Using topological information in opportunistic network coding / by Magdalena Johanna (Leenta) Grobler  ](https://hdl.handle.net/10394/2639)
+- [پایان نامه](https://github.com/nazanin-amini/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/grobler_magdalenaj(1).pdf)
+- [صفحات روش و پژوهش  پایان نامه مربوطه](pages: 1,2,67,68,69)
+  
 
 # ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
 - [187.pdf](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/187.pdf)
