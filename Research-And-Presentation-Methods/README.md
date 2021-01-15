@@ -33,7 +33,8 @@
 - [beamer.tex](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.tex)
 
 
-## گروه ها
+## اعضای گروه
+
 1. G-R01
     1. [_RPM01-05_نازنین امینی عشق آبادی**](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/05_%D9%86%D8%A7%D8%B2%D9%86%D9%8A%D9%86%20%D8%A7%D9%85%D9%8A%D9%86%D9%8A%20%D8%B9%D8%B4%D9%82%20%D8%A7%D8%A8%D8%A7%D8%AF%D9%8A)
     1. [_RPM01-09_فاطمه تاتلاری](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/09_%D9%81%D8%A7%D8%B7%D9%85%D9%87%20%D8%AA%D8%A7%D8%AA%D9%84%D8%A7%D8%B1%D9%8A)
