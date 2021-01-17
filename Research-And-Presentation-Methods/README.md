@@ -46,5 +46,6 @@
     1. [_RPM02-33_فائزه صیدی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/33_%D9%81%D8%A7%D8%A6%D8%B2%D9%87%20%D8%B5%D9%8A%D8%AF%D9%8A)
     1. [_RPM02-64_رضوانه نورزائی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_02/64_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
 
-
+## خلاصه ارزیابی درس 
+- [چک لیست](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
 
