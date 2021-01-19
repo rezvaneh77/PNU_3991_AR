@@ -7,7 +7,7 @@
 - [Github](https://github.com/)
 - [PNU_3991_AR](https://github.com/SOLMAZ215/PNU_3991_AR)
 - [resume](https://SOLMAZ215.github.io//)
-- [SOP](https://rezvanehnurzayii.github.io/rezvanehnurzayi.github.io-SOP-/)
+- [SOP](https://SOLMAZ215.github.io/SOLMAZ215.github.io-SOP-/)
 - [javascript Certificate](https://github.com/SOLMAZ215/PNU_3991_AR/blob/main/js.pdf)
 
 -----------
@@ -15,12 +15,11 @@
 > ارزیابی ها
 
 ##  بخش عمومی
-- [ارزیابی رزومه و انگیزه نامه](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/_General/RN_CV_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی بخش عمومی](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/_General/RN_GeneralSection_CheckList_AR_3991.pdf)
+- [ارزیابی رزومه و انگیزه نامه](https://github.com/SOLMAZ215/PNU_3991_AR/blob/main/_General/RN_CV_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی بخش عمومی](https://github.com/SOLMAZ215/PNU_3991_AR/blob/main/_General/RN_GeneralSection_CheckList_AR_3991.pdf)
 
 ## بخش دروس کارشناسی
-- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها ](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/RN_Theory_of_Languages_and_Machines_CheckList_AR_3991.pdf)
-- [خلاصه ارزیابی درس_روش پژوهش و ارائه](https://github.com/rezvaneh77/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/RN_ResearchAndPresentationMethods_CheckList_AR_3991.pdf)
+- [خلاصه ارزیابی درس_نظریه زبان ها و ماشین ها ](https://github.com/SOLMAZ215/PNU_3991_AR/blob/main/Theory-of-Languages-and-Machines/RN_Theory_of_Languages_and_Machines_CheckList_AR_3991.pdf)
 -------------
 
 
@@ -32,7 +31,7 @@
     
 ## دروس کارشناسی
 
-[1115157_01 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
+[1115157_03 نظریه زبان ها و ماشین](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines/_1115157_01/67_%D8%B1%D8%B6%D9%88%D8%A7%D9%86%D9%87%20%D9%86%D9%88%D8%B1%D8%B2%D8%A7%D8%A6%D9%8A)
 <br>
 
 
