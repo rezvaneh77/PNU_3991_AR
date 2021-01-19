@@ -4,11 +4,7 @@
 --------------
 
 
-- [Github](https://github.com/)
-- [PNU_3991_AR](https://github.com/SOLMAZ215/PNU_3991_AR)
-- [resume](https://SOLMAZ215.github.io//)
-- [SOP](https://SOLMAZ215.github.io/SOLMAZ215.github.io-SOP-/)
-- [javascript Certificate](https://github.com/SOLMAZ215/PNU_3991_AR/blob/main/js.pdf)
+
 
 -----------
 
